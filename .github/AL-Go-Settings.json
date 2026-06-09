@@ -1,5 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v9.0/.Modules/settings.schema.json",
   "type": "PTE",
-  "templateUrl": "https://github.com/Aholstrup1-PersonalOrg/ALGo-CustomTemplate@main"
+  "templateUrl": "https://github.com/Aholstrup1-PersonalOrg/ALGo-CustomTemplate@main",
+  "templateSha": "93c9e39aed3d02633c3a94695e8f09c39e9442c7"
 }
